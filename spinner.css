@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#spinner{
+  margin: 5vw;
+  width: 90vw;
+}
